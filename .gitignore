@@ -1,0 +1,11 @@
+#Ignore .idea files
+*.idea
+
+#Ignore vscode files
+*.vscode
+
+#Ignore lock files
+*.lock
+
+#Ignore npm files
+*.npm
